@@ -33,7 +33,7 @@ project-root/
 1. **Clone the repo:**
    ```bash
    1 . git clone https://github.com/Rathod-1122/Agent-Task-Distribution-Web-App-Without-Deployment
-   2 .change the directory to the folder with command: cd Agents-Task-Distribution-Web-App-Without-Deployment
+   2 .change the directory to the folder with command: cd Agent-Task-Distribution-Web-App-Without-Deployment
 
 2. **Install backend dependencies:**
    npm install
